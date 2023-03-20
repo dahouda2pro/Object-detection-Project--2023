@@ -8,5 +8,4 @@
 
 ### pip install scikit-image
 
-### pip install lap
 

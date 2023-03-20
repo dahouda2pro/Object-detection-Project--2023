@@ -4,8 +4,8 @@
 
  ### pip install ultralytics
 
-### pip install filterpy
+ ### pip install filterpy
 
-### pip install scikit-image
+ ### pip install scikit-image
 
 
